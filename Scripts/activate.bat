@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\dmeza\Desktop\academico\matematicas discretas\veen_"
+set "VIRTUAL_ENV=C:\Users\dmeza\Desktop\academico\matematicas discretas\venn"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
