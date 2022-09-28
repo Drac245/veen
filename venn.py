@@ -22,6 +22,6 @@ A={30,50,0}
 union_A_E = A | E
 print(union_A_E) 
 #{0, 50, 70, 55, 40, 30}
-venn2(subsets = (1, 1, 1), set_labels = ('conjunto A unido E’', ' '), set_colors=('lawngreen', 'lawngreen'), alpha=0.9)
+venn2(subsets = (80, 165, 245), set_labels = ('conjunto A unido E’', ' '), set_colors=('lawngreen', 'lawngreen'), alpha=0.9)
 plt.title("Diagrama de Venn Punto B    {0, 50, 70, 55, 40, 30}")
 plt.show()
